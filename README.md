@@ -1,4 +1,6 @@
-### Hello, thanks for visiting my GitHub Profile 😁
+### Hello, thanks for visiting my GitHub Profile! 😁
+
+I'm a Senior Software Engineer specializing in Quality Assurance Test Automation & Full Stack Web Application Development.
 
 - 🔭 I’m currently working on ... my [xray-cloud-json reporter plugin](https://github.com/PaulMEdwards/testcafe-reporter-xray-cloud-json) for [TestCafé](https://testcafe.io/).
 - 🌱 I recently learned about ... [CRACO](https://www.npmjs.com/package/@craco/craco).
@@ -11,3 +13,7 @@
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... 
 -->
+
+#### Cheers 🍻,
+
+## Paul
